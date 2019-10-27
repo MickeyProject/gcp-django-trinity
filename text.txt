@@ -1,0 +1,7 @@
+pip install django
+python -m django --version
+django-admin startproject django-project
+python manage.py runserver
+
+
+python manage.py startapp blog
